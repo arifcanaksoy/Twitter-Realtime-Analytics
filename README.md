@@ -81,4 +81,4 @@ run streamer.py to stream data from Kafka to influxDB via Spark
 ```sh
 $ spark-2.4.5-bin-hadoop2.7/bin/spark-submit --jars spark-streaming-kafka-0-8-assembly_2.11-2.4.5.jar /Users/YOURUSERNAME/git/Twitter-Realtime-Analytics/spark_streaming_twitter.py
 ```
-![Top words with counts](https://github.com/arifcanaksoy/Twitter-Realtime-Analytics/blob/master/output_spark_queryBonus.png "Tweets are processed and top words are shown as table output")
+![Top words with counts](https://github.com/arifcanaksoy/Twitter-Realtime-Analytics/blob/master/output_spark_query.png "Tweets are processed and top words are shown as table output")
